@@ -5,7 +5,7 @@
 ## 
 
 - How to reach me mehdi.youssef97@gmail.ocm
-<> add resume link
+<!-- add resume link -->
 
 ## Skills 
 

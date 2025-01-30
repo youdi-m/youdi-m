@@ -1,17 +1,15 @@
 # Hey, I'm Youssef Mehdi
 
+## 🧔🏻‍♂️ About Me
 
+- You can reach me here - mehdi.youssef97@gmail.com
+<!--You can know more about me here - *resume link*-->
 
-## 
-
-- How to reach me mehdi.youssef97@gmail.ocm
-<!-- add resume link -->
-
-## Skills 
+## 🧠 Skills 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,linux,c,cpp,rust,py,html,css,js&perline=3)
 
-## Stats
+## 👀 Stats
 
 ![Youdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&rank_icon=github&theme=tokyonight)
 

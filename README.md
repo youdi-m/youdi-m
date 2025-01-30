@@ -1,9 +1,15 @@
 # Hey, I'm Youssef Mehdi
 
-##
+
+
+## 
 
 - How to reach me mehdi.youssef97@gmail.ocm
-- Know more about me *resume*
+<> add resume link
+
+## Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=arch, linux, c, cpp, rust, java, py, html, css, js)](https://skillicons.dev)
 
 ## Stats
 

@@ -9,7 +9,7 @@
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=arch, linux, c, cpp, rust, java, py, html, css, js)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch, linux, c, cpp, rust, java, py, html, css, js)
 
 ## Stats
 

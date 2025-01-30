@@ -13,6 +13,6 @@
 
 ## Stats
 
-![Youdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&rank_icon&theme=tokyonight)
+![Youdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&rank_icon=github&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youdi-m&layout=donut&theme=tokyonight)](https://github.com/youdi-m/github-readme-stats)

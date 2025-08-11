@@ -7,20 +7,23 @@
 
 ## Skills 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,linux,c,cpp,rust,py,html,css,js)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,java,cpp,react,nodejs,express,mongodb,postgres,django,linux,arduino)
 
 ## Stats
 
 ![Youdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&rank_icon=github&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youdi-m&layout=donut&theme=tokyonight)](https://github.com/youdi-m/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youdi-m&layout=compact&theme=tokyonight)](https://github.com/youdi-m/github-readme-stats)
 
 <details>
     <summary> About me </summary>
-    I am a cybersecurity enthusiast and Computer Science graduate from the University of Windsor.\n
-    With a strong foundation in IT security and a passion for problem-solving, I specialize in threat detection,
-    incident response, and vulnerability management. I hold certifications like Google Cybersecurity and CompTIA Security+,
-    and I’m skilled in SIEM tools (Splunk, QRadar), scripting (Python, Bash), and compliance frameworks (NIST, PCI-DSS).
-    My projects include building automated network scanning and assessment tools to enhance threat detection efficiency
-    as well as tools to successfuly penetrate a multitude of systems and help me in Bug Bounty hunting.
+    I’m a Computer Science graduate from the University of Windsor with a passion for
+    building scalable, secure, and efficient applications. My experience spans
+    full-stack development, API design, and systems programming, with game development as a personal interest.
+
+    I’m proficient in JavaScript/TypeScript, Python, Java, and C++, and have hands-on
+    experience with frameworks and stacks such as MERN and Django.
+
+    I also regularly work on diverse projects, including games, websites,
+    and hardware-based builds using ESP32 microcontrollers, TFT displays, and related electronics.
 </details>

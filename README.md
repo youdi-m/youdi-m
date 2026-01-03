@@ -9,5 +9,5 @@ network based vulnerabilities.
 - Always open to learning new things, expanding my skill set and working with new people.
 
 ## 💡 Skills 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,js,nodejs,java,cpp,linux)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,js,nodejs,cpp,linux)
 

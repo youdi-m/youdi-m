@@ -1,7 +1,5 @@
 # Hi, I'm youdi
 
-## Skills 
-
 ## About Me
     - I enjoy creating different types of applications and tools whether they be web based, software, cli of even games.
 
@@ -10,4 +8,5 @@
 
     - Always open to learning new things, expanding my skill set and working with new people.
 
+## Skills 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,js,nodejs,java,cpp,linux)

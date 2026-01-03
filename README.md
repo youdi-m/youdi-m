@@ -7,23 +7,16 @@
 
 ## Skills 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,java,cpp,react,nodejs,express,mongodb,postgres,django,linux,arduino)
-
-## Stats
-
-![Youdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&rank_icon=github&theme=tokyonight)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youdi-m&layout=compact&theme=tokyonight)](https://github.com/youdi-m/github-readme-stats)-->
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,js,nodejs,java,cpp,linux)
 
 <details>
     <summary> About me </summary>
-    I’m a Computer Science graduate from the University of Windsor with a passion for
-    building scalable, secure, and efficient applications. My experience spans
-    full-stack development, API design, and systems programming, with game development as a personal interest.
+    Computer Science graduate from the University of Windsor, i enjoy creating
+    different types of applications and tools whether they be web based, software,
+    cli of even games.
 
-    I’m proficient in JavaScript/TypeScript, Python, Java, and C++, and have hands-on
-    experience with frameworks and stacks such as MERN and Django.
+    My main interest is cybersecurity and I am currently working on a tool to identify
+    net
 
-    I also regularly work on diverse projects, including games, websites,
-    and hardware-based builds using ESP32 microcontrollers, TFT displays, and related electronics.
+    Always open to learning new things, expanding my skill set and working with new people.
 </details>

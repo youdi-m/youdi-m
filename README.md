@@ -58,7 +58,7 @@ in cybersecurity and offensive security tooling.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=66D9EF)](https://linkedin.com/in/youssefmehdi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-272822?style=for-the-badge&logo=firefox&logoColor=E6DB74)](https://yoursite.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&theme=monokai&hide_border=true&bg_color=272822&title_color=F92672&icon_color=FD971F&text_color=F8F8F2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youdi-m&layout=compact)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=youdi-m&hide_border=true&background=272822&ring=F92672&fire=FD971F&currStreakLabel=E6DB74&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=75715E)
 

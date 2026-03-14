@@ -1,6 +1,9 @@
 <div align="center">
 
 # `$ whoami → youdi`
+
+<br>
+
 ### *software engineer & systems tinkerer*
 
 <br>
@@ -77,10 +80,6 @@ in cybersecurity and offensive security tooling.
 
 <div align="center">
 
-```
-[visitor@youdi ~]$ echo "thanks for stopping by"
-> thanks for stopping by
-[visitor@youdi ~]$ _
-```
+*`> thanks for stopping by_`*
 
 </div>

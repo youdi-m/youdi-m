@@ -55,7 +55,7 @@ in cybersecurity and offensive security tooling.
 ### `> netstat -connections`
 
 [![GitHub](https://img.shields.io/badge/GitHub-272822?style=for-the-badge&logo=github&logoColor=F92672)](https://github.com/youdi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=66D9EF)](https://linkedin.com/in/youdi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=66D9EF)](https://linkedin.com/in/youssefmehdi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-272822?style=for-the-badge&logo=firefox&logoColor=E6DB74)](https://yoursite.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youdi&show_icons=true&theme=monokai&hide_border=true&bg_color=272822&title_color=F92672&icon_color=FD971F&text_color=F8F8F2)

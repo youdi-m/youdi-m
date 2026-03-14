@@ -1,6 +1,6 @@
 <div align="center">
 
-# `$ whoami → youdi`
+# `$ whoami → youssef`
 
 ---
 
@@ -48,7 +48,7 @@ in cybersecurity and offensive security tooling.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🔧 **Portfolio** | Personal site deployed on AWS with CI/CD | React, AWS, GitHub Actions |
-| 🛡️ **Coming Soon** | Developer tool — stay tuned | TBD |
+| 🛡️ **Coming Soon** | Developer tool | TBD |
 
 ---
 

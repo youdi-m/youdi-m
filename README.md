@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=272822&height=120&section=header&text=%24%20whoami%20%E2%86%92%20youdi&fontSize=36&fontColor=F92672&fontAlignY=50&desc=software%20engineer%20%26%20systems%20tinkerer&descColor=E6DB74&descAlignY=75&descSize=16" width="100%" />
+# `$ whoami → youdi`
+### *software engineer & systems tinkerer*
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FD971F&center=true&vCenter=true&width=500&lines=bbuilding+tools+that+solve+real+problemss;full-stack+dev+%7C+IT+systems+%7C+security;always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FD971F&center=true&vCenter=true&width=500&lines=building+tools+that+solve+real+problems;full-stack+dev+%7C+IT+systems+%7C+security;always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 

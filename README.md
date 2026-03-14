@@ -2,6 +2,8 @@
 
 # `$ whoami → youdi`
 
+---
+
 <br>
 
 ### *software engineer & systems tinkerer*

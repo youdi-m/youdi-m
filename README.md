@@ -16,8 +16,8 @@
 
 ```
 Software engineer with a background in IT systems administration and managed
-services. I build full-stack web apps, developer tools, and CLI utilities —
-if it solves a real problem, I want to build it. I also have a strong interest
+services. I build full-stack web apps, developer tools, and CLI utilities
+with the main goal of having them be useful. I also have a strong interest
 in cybersecurity and offensive security tooling.
 ```
 
@@ -27,11 +27,11 @@ in cybersecurity and offensive security tooling.
 
 **`languages`**
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,cpp,java&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,java,cpp&theme=dark)
 
 **`frontend`**
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,html,css,tailwind&theme=dark)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind&theme=dark)
 
 **`backend & infra`**
 

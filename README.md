@@ -47,7 +47,7 @@ I build full-stack web applications and tools that I think are cool and useful.
 |---------|-------------|-------|
 | 🔧 **Personal Portfolio** | Personal site, acts as a hub for the rest of my projects | React, GitHub Actions |
 | 📚 **Library Application** | Catalog of books, users can read, favorite, categorize and rate them | C#, React, .NET, SQL|
-| 🐉 **D&D Campaign Manager** | Tool to manage your D&D Campaigns, can create or join campaigns, nested authorizations, | Java, Angular, Spring, PostgreSQL |
+| 🐉 **D&D Campaign Manager** | Tool to manage your D&D Campaigns, can create or join campaigns, nested authorizations | Java, Angular, Spring, PostgreSQL |
 
 ---
 
@@ -57,7 +57,7 @@ I build full-stack web applications and tools that I think are cool and useful.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=66D9EF)](https://linkedin.com/in/youssefmehdi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-272822?style=for-the-badge&logo=firefox&logoColor=E6DB74)](https://yoursite.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&theme=monokai&hide_border=true&bg_color=272822&title_color=F92672&icon_color=FD971F&text_color=F8F8F2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&theme=github_dark&hide_border=true&bg_color=272822&title_color=F92672&icon_color=FD971F&text_color=F8F8F2)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=youdi-m&hide_border=true&background=272822&ring=F92672&fire=FD971F&currStreakLabel=E6DB74&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=75715E)
 

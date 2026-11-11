@@ -45,9 +45,9 @@ I build full-stack web applications and tools that I think are cool and useful.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔧 **Portfolio** | Personal site deployed on AWS with CI/CD | React, AWS, GitHub Actions |
-| 🛡️ **Coming Soon** | Developer tool | TBD |
-
+| 🔧 **Personal Portfolio** | Personal site | React, GitHub Actions |
+| 📚 **Library Application** | Catalog of books, users can read, favourite and rate them | C#, React, .NET, SQL|
+| 🐉 **D&D Campaign Manager** | Tool to manage your D&D Campaigns, nested authorizations | Java, Angular, Spring, PostgreSQL |
 ---
 
 ### `> netstat -connections`

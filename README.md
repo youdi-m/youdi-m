@@ -34,7 +34,7 @@ I build full-stack web applications, and tools that I think are cool/useful.
 
 **`backend & infra`**
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=net,spring,postgres,sql&theme=dark)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=net,spring,postgresql,database&theme=dark)
 
 **`tools & platforms`**
 

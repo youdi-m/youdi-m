@@ -45,9 +45,10 @@ I build full-stack web applications and tools that I think are cool and useful.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔧 **Personal Portfolio** | Personal site | React, GitHub Actions |
-| 📚 **Library Application** | Catalog of books, users can read, favourite and rate them | C#, React, .NET, SQL|
-| 🐉 **D&D Campaign Manager** | Tool to manage your D&D Campaigns, nested authorizations | Java, Angular, Spring, PostgreSQL |
+| 🔧 **Personal Portfolio** | Personal site, acts as a hub for the rest of my projects | React, GitHub Actions |
+| 📚 **Library Application** | Catalog of books, users can read, favorite, categorize and rate them | C#, React, .NET, SQL|
+| 🐉 **D&D Campaign Manager** | Tool to manage your D&D Campaigns, can create or join campaigns, nested authorizations, | Java, Angular, Spring, PostgreSQL |
+
 ---
 
 ### `> netstat -connections`

@@ -4,7 +4,7 @@
 
 ---
 
-### *software engineer & systems tinkerer*
+### *Software Engineer*
 
 <br>
 
@@ -16,9 +16,8 @@
 
 ```
 Software engineer with a background in IT systems administration and managed
-services. I build full-stack web apps, developer tools, and CLI utilities
-with the main goal of having them be useful. I also have a strong interest
-in cybersecurity and offensive security tooling.
+services.
+I build full-stack web applications, and tools that I think are cool/useful.
 ```
 
 ---
@@ -35,7 +34,7 @@ in cybersecurity and offensive security tooling.
 
 **`backend & infra`**
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=net,spring,postgres,sql&theme=dark)
 
 **`tools & platforms`**
 

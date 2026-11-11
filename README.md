@@ -15,9 +15,8 @@
 ### `> cat about.txt`
 
 ```
-Software engineer with a background in IT systems administration and managed
-services.
-I build full-stack web applications, and tools that I think are cool/useful.
+Software engineer with a background in IT systems administration and managed services.
+I build full-stack web applications and tools that I think are cool and useful.
 ```
 
 ---
@@ -26,19 +25,19 @@ I build full-stack web applications, and tools that I think are cool/useful.
 
 **`languages`**
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,java,cpp&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,cs,cpp,c&theme=dark)
 
 **`frontend`**
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind&theme=dark)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,angular,tailwind&theme=dark)
 
 **`backend & infra`**
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=net,spring,postgresql,database&theme=dark)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=net,spring,postgresql,mysql&theme=dark)
 
 **`tools & platforms`**
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,github,linux,bash&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,github,linux&theme=dark)
 
 ---
 

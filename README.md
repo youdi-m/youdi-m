@@ -57,8 +57,6 @@ I build full-stack web applications and tools that I think are cool and useful.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=66D9EF)](https://linkedin.com/in/youssefmehdi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-272822?style=for-the-badge&logo=firefox&logoColor=E6DB74)](https://yoursite.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youdi-m&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=youdi-m&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e)
 
 ---

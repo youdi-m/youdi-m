@@ -53,9 +53,9 @@ I build full-stack web applications and tools that I think are cool and useful.
 
 ### `> netstat -connections`
 
-[![GitHub](https://img.shields.io/badge/GitHub-272822?style=for-the-badge&logo=github&logoColor=F92672)](https://github.com/youdi)
+[![GitHub](https://img.shields.io/badge/GitHub-272822?style=for-the-badge&logo=github&logoColor=F92672)](https://github.com/youdi-m)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-272822?style=for-the-badge&logo=linkedin&logoColor=66D9EF)](https://linkedin.com/in/youssefmehdi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-272822?style=for-the-badge&logo=firefox&logoColor=E6DB74)](https://yoursite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-272822?style=for-the-badge&logo=firefox&logoColor=E6DB74)](https://youssefmehdi.com)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=youdi-m&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e)
 
